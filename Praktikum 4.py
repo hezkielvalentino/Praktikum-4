@@ -1,6 +1,3 @@
-from typing import Match
-
-
 i=0
 nm =[]
 ni = []
