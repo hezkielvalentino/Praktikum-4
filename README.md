@@ -26,3 +26,10 @@ List adalah struktur data pada python yang mampu menyimpan lebih dari satu data,
 - insert (index, item) menambahkan item dari indeks tertentu
 
 Sekarang mari kita coba membuat program dengan memanfaatkan method append().
+
+- Langkah yang pertama buka Aplikasi IDLE Python untuk membuat program di python
+- Setelah itu ikuti codingan di bawah ini:
+
+![Image are easy]!
+
+
